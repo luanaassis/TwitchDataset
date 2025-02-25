@@ -20,13 +20,9 @@ TwitchDataset is a repository that provides datasets extracted from Twitch for a
    git clone https://github.com/luanaassis/TwitchDataset.git
    ```
 
-2. Install the required dependencies:
+2. Install the required dependencies.
 
-   ```bash
-   pip install -r requirements.txt
-   ```
-
-3. Use the provided notebooks and scripts to load and analyze the datasets.
+3. To use the collector you must create your [Twitch tokens](https://dev.twitch.tv/docs/api/).
 
 ## 📊 Data Examples
 
