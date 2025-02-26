@@ -4,7 +4,7 @@ TwitchDataset is a repository that provides datasets extracted from Twitch for a
 
 ## 📚 About the Project
 
-**TwitchDataset** collects and organizes Twitch data, allowing researchers and enthusiasts to explore behavior patterns, game popularity, tag influence, and other insights.
+**TwitchDataset** collects and organizes Twitch data, allowing researchers and enthusiasts to explore behavior patterns, game popularity, tag influence, and other insights. All data collected in the period 10/13/2024 to 11/12/2024 is on twitch_database.xlsx file.
 
 ### 🛠️ Technologies Used
 
